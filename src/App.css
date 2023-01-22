@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+/*Select Style*/
+#currencySelect {
+  width: 70%;
+  color: white;
+  background-color: #93e499;
+  border-radius: 3px;
+  border-style: solid;
+  border-color: #93e499;
+}
+
+.circleButton {
+  border-radius: 50%;
+  color: white;
+  font-weight: bold;
+  border-style: solid;
+  width: 30px;
+  height: 30px;
+}
+
+.plusButton {
+  background-color: #4fac5c;
+  border-color: #4fac5c;
+}
+
+.minusButton {
+  background-color: #af2419;
+  border-color: #af2419;
+}
